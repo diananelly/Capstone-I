@@ -22,7 +22,7 @@ if data_year == "2021":
     if display == "Offenses Committed":
     
         st.write("Displaying offenses committed data for 2021.")
-        # Add your code here to show relevant information
+        # st.write super useful
     elif display == "Weapons Used":
         
         st.write("Displaying weapons used data for 2021.")
