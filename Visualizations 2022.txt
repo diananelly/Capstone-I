@@ -1,0 +1,90 @@
+Bar char for Population by Cities:
+
+# Embedding the first Tableau visualization in an iframe
+tableau_url1 = "https://public.tableau.com/views/FloridaCitiesPopulation2022/Population?:embed=y&:display_count=yes&:showVizHome=no"
+iframe1 = f'<iframe src="{tableau_url1}" width="100%" height="525"></iframe>'
+st.markdown(iframe1, unsafe_allow_html=True)
+
+Simple vs Aggravated Assault Florida bar char 2022 
+
+# Embedding the second Tableau visualization in an iframe
+tableau_url2 = "https://public.tableau.com/views/SimplevsAggravatedAssault2022/SimplevsAggravatedAssault?:embed=y&:display_count=yes&:showVizHome=no"
+iframe2 = f'<iframe src="{tableau_url2}" width="100%" height="525"></iframe>'
+st.markdown(iframe2, unsafe_allow_html=True)
+
+Miami-Dade crimes Pie Chart Crimes 2022
+
+# Embedding the third Tableau visualization in an iframe
+tableau_url3 = "https://public.tableau.com/views/Miami-Dadecrimes2022exceptSimpleandAggravatedAssault/Miami-DadeCrimes2022?:embed=y&:display_count=yes&:showVizHome=no"
+iframe3 = f'<iframe src="{tableau_url3}" width="100%" height="525"></iframe>'
+st.markdown(iframe3, unsafe_allow_html=True)
+
+Assault by Location 2022
+
+# Embedding the fourth Tableau visualization in an iframe
+tableau_url4 = "https://public.tableau.com/views/AssaultOffensesbyLocation2022/AssaultbyLocation2022?:embed=y&:display_count=yes&:showVizHome=no"
+iframe4 = f'<iframe src="{tableau_url4}" width="100%" height="525"></iframe>'
+st.markdown(iframe4, unsafe_allow_html=True)
+
+Sex Offenses by Location 2022
+
+# Embedding the fifth Tableau visualization in an iframe
+tableau_url5 = "https://public.tableau.com/views/SexOffensesbyLocation2022/SexOffensesbyLocation2022?:embed=y&:display_count=yes&:showVizHome=no"
+iframe5 = f'<iframe src="{tableau_url5}" width="100%" height="525"></iframe>'
+st.markdown(iframe5, unsafe_allow_html=True)
+
+Homicide by Location 2022
+
+# Embedding the sixth Tableau visualization in an iframe
+tableau_url6 = "https://public.tableau.com/views/HomicideOffensesbyLocation2022/HomicidebyLocation20222?:embed=y&:display_count=yes&:showVizHome=no"
+iframe6 = f'<iframe src="{tableau_url6}" width="100%" height="525"></iframe>'
+st.markdown(iframe6, unsafe_allow_html=True)
+
+Kidnapping/Abduction by Location 2022
+
+# Embedding the seventh Tableau visualization in an iframe
+tableau_url7 = "https://public.tableau.com/views/KidnappingbyLocation2022/KidnappingAbductionbyLocation20223?:embed=y&:display_count=yes&:showVizHome=no"
+iframe7 = f'<iframe src="{tableau_url7}" width="100%" height="525"></iframe>'
+st.markdown(iframe7, unsafe_allow_html=True)
+
+Total Incidents by Time 2022
+
+# Embedding the eighth Tableau visualization in an iframe
+tableau_url8 = "https://public.tableau.com/views/TotalIncidentsbyTime/TotalIncidents?:embed=y&:display_count=yes&:showVizHome=no"
+iframe8 = f'<iframe src="{tableau_url8}" width="100%" height="525"></iframe>'
+st.markdown(iframe8, unsafe_allow_html=True)
+
+Assault Incidents by Time 2022
+
+# Embedding the ninth Tableau visualization in an iframe
+tableau_url9 = "https://public.tableau.com/views/AssaultIncidentsbyTime/AssaultOffensesbyTime?:embed=y&:display_count=yes&:showVizHome=no"
+iframe9 = f'<iframe src="{tableau_url9}" width="100%" height="525"></iframe>'
+st.markdown(iframe9, unsafe_allow_html=True)
+
+Homicide Incidents by Time 2022
+
+# Embedding the tenth Tableau visualization in an iframe
+tableau_url10 = "https://public.tableau.com/views/HomicideIncidentsbyTime/HomicideOffensesbyTime?:embed=y&:display_count=yes&:showVizHome=no"
+iframe10 = f'<iframe src="{tableau_url10}" width="100%" height="525"></iframe>'
+st.markdown(iframe10, unsafe_allow_html=True)
+
+Human Trafficking Incidents by Time 2022
+
+# Embedding the eleventh Tableau visualization in an iframe
+tableau_url11 = "https://public.tableau.com/views/HumanTraffickingIncidentsbyTime/HumanTraffickingOffensesbyTime2?:embed=y&:display_count=yes&:showVizHome=no"
+iframe11 = f'<iframe src="{tableau_url11}" width="100%" height="525"></iframe>'
+st.markdown(iframe11, unsafe_allow_html=True)
+
+Kidnapping Incidents by Time 2022
+
+# Embedding the twelfth Tableau visualization in an iframe
+tableau_url12 = "https://public.tableau.com/views/KidnappingIncidentsbyTime/KidnappingOffensesbyTime?:embed=y&:display_count=yes&:showVizHome=no"
+iframe12 = f'<iframe src="{tableau_url12}" width="100%" height="525"></iframe>'
+st.markdown(iframe12, unsafe_allow_html=True)
+
+Sex Offenses by Time 2022
+
+# Embedding the thirteenth Tableau visualization in an iframe
+tableau_url13 = "https://public.tableau.com/views/SexOffensesbyTime/SexOffensesbyTime?:embed=y&:display_count=yes&:showVizHome=no"
+iframe13 = f'<iframe src="{tableau_url13}" width="100%" height="525"></iframe>'
+st.markdown(iframe13, unsafe_allow_html=True)
