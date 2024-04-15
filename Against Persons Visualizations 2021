@@ -1,0 +1,51 @@
+#Assault by Location 2021
+
+tableau_url14 = "https://public.tableau.com/views/AssaultOffensesbyLocation2021/AssaultbyLocation2021?:embed=y&:display_count=yes&:showVizHome=no"
+iframe14 = f'<iframe src="{tableau_url14}" width="100%" height="525"></iframe>'
+st.markdown(iframe14, unsafe_allow_html=True)
+
+#Homicide by Location 2021
+
+tableau_url15 = "https://public.tableau.com/views/HomicideOffensesbyLocation2021/HomicidebyLocation2021?:embed=y&:display_count=yes&:showVizHome=no"
+iframe15 = f'<iframe src="{tableau_url15}" width="100%" height="525"></iframe>'
+st.markdown(iframe15, unsafe_allow_html=True)
+
+#Human Trafficking by Location 2021
+tableau_url16 = "https://public.tableau.com/views/HumanTraffickingOffensesbyLocation2021/HumanTraffickingbyLocation2021?:embed=y&:display_count=yes&:showVizHome=no"
+iframe16 = f'<iframe src="{tableau_url16}" width="100%" height="525"></iframe>'
+st.markdown(iframe16, unsafe_allow_html=True)
+
+#Kidnapping by Location 2021
+tableau_url17 = "https://public.tableau.com/views/KidnappingOffensesbyLocation2021/KidnappingbyLocation2021?:embed=y&:display_count=yes&:showVizHome=no"
+iframe17 = f'<iframe src="{tableau_url17}" width="100%" height="525"></iframe>'
+st.markdown(iframe17, unsafe_allow_html=True)
+
+#Sex Offenses by Location 2021
+tableau_url18 = "https://public.tableau.com/views/SexOffensesbyLocation2021/SexOffensesbyLocation2021?:embed=y&:display_count=yes&:showVizHome=no"
+iframe18 = f'<iframe src="{tableau_url18}" width="100%" height="525"></iframe>'
+st.markdown(iframe18, unsafe_allow_html=True)
+
+# Assault Offenses by Time 2021
+tableau_url19 = "https://public.tableau.com/views/AssaultOffensesbyTime2021/AssaultOffensesbyTime2021?:embed=y&:display_count=yes&:showVizHome=no"
+iframe19 = f'<iframe src="{tableau_url19}" width="100%" height="525"></iframe>'
+st.markdown(iframe19, unsafe_allow_html=True)
+
+# Homicide Offenses by Time 2021
+tableau_url20 = "https://public.tableau.com/views/HomicideOffensesbyTime2021/HomicideOffensesbyTime2021?:embed=y&:display_count=yes&:showVizHome=no"
+iframe20 = f'<iframe src="{tableau_url20}" width="100%" height="525"></iframe>'
+st.markdown(iframe20, unsafe_allow_html=True)
+
+# Human Trafficking Offenses by Time 2021
+tableau_url21 = "https://public.tableau.com/views/HumanTraffickingOffensesbyTime2021/HumanTraffickingOffensesbyTime2021?:embed=y&:display_count=yes&:showVizHome=no"
+iframe21 = f'<iframe src="{tableau_url21}" width="100%" height="525"></iframe>'
+st.markdown(iframe21, unsafe_allow_html=True)
+
+# Kidnapping Offenses by Time 2021
+tableau_url22 = "https://public.tableau.com/views/KidnappingOffensesbyTime2021/KidnappingOffensesbyTime2021?:embed=y&:display_count=yes&:showVizHome=no"
+iframe22 = f'<iframe src="{tableau_url22}" width="100%" height="525"></iframe>'
+st.markdown(iframe22, unsafe_allow_html=True)
+
+# Sex Offenses by Time 2021 
+tableau_url23 = "https://public.tableau.com/views/SexOffensesbyTime2021/SexOffensesbyTime2021?:embed=y&:display_count=yes&:showVizHome=no"
+iframe23 = f'<iframe src="{tableau_url23}" width="100%" height="525"></iframe>'
+st.markdown(iframe23, unsafe_allow_html=True)
